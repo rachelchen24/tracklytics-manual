@@ -1,0 +1,152 @@
+name,gender,date,competition,venue,discipline,mark,place,resultScore
+Una STANCEV,Women,03 MAR 2018,Antequera (i) - U18 Events,Antequera (ESP) (i),High Jump,1.70,1.,926
+Una STANCEV,Women,11 MAR 2018,"Antequera Spanish U18 Indoor Championships, Antequera (i)",Antequera (ESP) (i),High Jump,1.68,3.,907
+Una STANCEV,Women,28 APR 2018,"Spanish Club Championships, Valencia",Valencia (ESP),High Jump,1.66,4.,888
+Una STANCEV,Women,26 MAY 2018,Málaga,Málaga (ESP),High Jump,1.66,1.,888
+Una STANCEV,Women,02 JUN 2018,San José de la Rinconda,San José de la Rinconda (ESP),High Jump,1.68,1.,907
+Una STANCEV,Women,23 JUN 2018,"Spanish U18 Championships, Gijón",Gijón (ESP),High Jump,1.70,2.,926
+Una STANCEV,Women,30 JUN 2018,Málaga,Málaga (ESP),High Jump,1.73,1.,955
+Una STANCEV,Women,06 JUL 2018,Granada,Granada (ESP),High Jump,1.65,1.,878
+Una STANCEV,Women,14 JUL 2018,Granollers,Granollers (ESP),High Jump,1.70,3.,926
+Una STANCEV,Women,21 JUL 2018,"Spanish Championships, Getafe",Getafe (ESP),High Jump,1.66,7.,888
+Una STANCEV,Women,22 DEC 2018,Antequera (i),Antequera (ESP) (i),High Jump,1.65,1.,878
+Una STANCEV,Women,19 JAN 2019,"Spanish U20 Indoor Club Championships, Antequera (i)",Antequera (ESP) (i),High Jump,1.70,1.,926
+Una STANCEV,Women,02 FEB 2019,"Göteborgs Inomhus, Göteborg (i)",Göteborg (SWE) (i),High Jump,1.73,2.,955
+Una STANCEV,Women,03 FEB 2019,"Regional Indoor Championships, Antequera (i)",Antequera (ESP) (i),High Jump,1.71,1.,936
+Una STANCEV,Women,17 FEB 2019,"Spanish Indoor Championships, Antequera (i)",Antequera (ESP) (i),High Jump,1.69,6.,916
+Una STANCEV,Women,10 MAR 2019,"Spanish U18. Indoor Championships, Valencia (i)",Valencia (ESP) (i),High Jump,1.71,2.,936
+Una STANCEV,Women,04 MAY 2019,"Regional Championships, Andújar",Andújar (ESP),High Jump,1.71,1.,936
+Una STANCEV,Women,11 MAY 2019,"Spanish Club Championships, Valencia",Valencia (ESP),High Jump,1.66,4.,888
+Una STANCEV,Women,18 MAY 2019,"Regional U18 Championships, Málaga",Málaga (ESP),High Jump,1.70,1.,926
+Una STANCEV,Women,25 MAY 2019,"Spanish U20 Club Championships, Zaragoza",Zaragoza (ESP),High Jump,1.67,2.,897
+Una STANCEV,Women,01 JUN 2019,"Spanish Club Championships, Andújar",Andújar (ESP),High Jump,1.75,1.,974
+Una STANCEV,Women,08 JUN 2019,"Regional U18 Championships, Getafe",Getafe (ESP),High Jump,1.72,3.,945
+Una STANCEV,Women,09 JUN 2019,"Meeting Paco Sanchez Vargas, Granada",Granada (ESP),High Jump,1.69,1.,916
+Una STANCEV,Women,22 JUN 2019,"Spanish U18 Championships, Castellón",Castellón (ESP),High Jump,1.74,1.,965
+Una STANCEV,Women,29 JUN 2019,"Copa Iberica, Madrid",Madrid (ESP),High Jump,1.76,2.,984
+Una STANCEV,Women,13 JUL 2019,"Regional Championships, Nerja",Nerja (ESP),High Jump,1.68,1.,907
+Una STANCEV,Women,03 JAN 2020,"Control FAA, Antequera (i)",Antequera (ESP) (i),High Jump,1.68,1.,907
+Una STANCEV,Women,12 JAN 2020,"II LaLigaSports Cup, Gallur, Madrid (i)","Gallur, Madrid (ESP) (i)",High Jump,1.65,4.,878
+Una STANCEV,Women,18 JAN 2020,"Spanish Indoor U20 Club Championships, Antequera (i)",Antequera (ESP) (i),High Jump,1.73,1.,955
+Una STANCEV,Women,26 JAN 2020,"Regional Indoor Club Championships, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.72,1.,945
+Una STANCEV,Women,02 FEB 2020,"Control FAA, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.68,1.,907
+Una STANCEV,Women,09 FEB 2020,"Regional Indoor Championships, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.74,1.,965
+Una STANCEV,Women,15 FEB 2020,"Control FAA, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.76,1.,984
+Una STANCEV,Women,25 FEB 2020,"International U20 Match, BGUFK Arena, Minsk (i)","BGUFK Arena, Minsk (BLR) (i)",High Jump,1.70,7.,926
+Una STANCEV,Women,01 MAR 2020,"Spanish Indoor Championships, Pista de atletismo Cuberta de Ourense, Ourense (i)","Pista de atletismo Cuberta de Ourense, Ourense (ESP) (i)",High Jump,1.79,3.,1013
+Una STANCEV,Women,08 AUG 2020,"Control F.A.A., Motril",Motril (ESP),High Jump,1.72,1.,945
+Una STANCEV,Women,22 AUG 2020,"Control F.A.A, Granada",Granada (ESP),High Jump,1.68,1.,907
+Una STANCEV,Women,29 AUG 2020,"Campeonato de Andalucía, Torremolinos",Torremolinos (ESP),High Jump,1.70,2.,926
+Una STANCEV,Women,05 SEP 2020,"Copa Iberdrola Plata, Estadio Vallehermoso, Madrid","Estadio Vallehermoso, Madrid (ESP)",High Jump,1.69,1.,916
+Una STANCEV,Women,19 SEP 2020,"Campeonato de España de Federaciones Autonómicas, Ciudad Real",Ciudad Real (ESP),High Jump,1.70,3.,926
+Una STANCEV,Women,20 SEP 2020,"Campeonato de Andalucía U23, Sevilla",Sevilla (ESP),High Jump,1.70,1.,926
+Una STANCEV,Women,27 SEP 2020,"Campeonato de Andalucía U20, Málaga",Málaga (ESP),High Jump,1.73,1.,955
+Una STANCEV,Women,04 OCT 2020,"Spanish U20 Championships, Estadio Vallehermoso, Madrid","Estadio Vallehermoso, Madrid (ESP)",High Jump,1.73,1.,955
+Una STANCEV,Women,12 OCT 2020,"Campeonato de Andalucía Clubes U20, Málaga",Málaga (ESP),High Jump,1.74,1.,965
+Una STANCEV,Women,24 OCT 2020,"Campeonato de Andalucía de Clubes, Andújar",Andújar (ESP),High Jump,1.68,1.,907
+Una STANCEV,Women,31 OCT 2020,"Spanish U20 Club Championships, Castellón",Castellón (ESP),High Jump,1.73,1.,955
+Una STANCEV,Women,23 JAN 2021,"Campeonato de Andalucía U23, Antequera (i)",Antequera (ESP) (i),High Jump,1.75,1.,974
+Una STANCEV,Women,30 JAN 2021,"European DNA Meeting Clubes, Valencia (i)",Valencia (ESP) (i),High Jump,1.73,1.,955
+Una STANCEV,Women,07 FEB 2021,"Campeonato Andalucía, Antequera (i)",Antequera (ESP) (i),High Jump,1.70,1.,926
+Una STANCEV,Women,20 FEB 2021,"Spanish Indoor Championships, Gallur, Madrid (i)","Gallur, Madrid (ESP) (i)",High Jump,1.74,2.,965
+Una STANCEV,Women,06 MAR 2021,"Spanish U20 Indoor Championships, Antequera (i)",Antequera (ESP) (i),High Jump,1.79,1.,1013
+Una STANCEV,Women,17 APR 2021,"Memorial Samuel Navarro Rojas, Estadio Municipal Emilio Hidalgo, Motril","Estadio Municipal Emilio Hidalgo, Motril (ESP)",High Jump,1.73,1.,955
+Una STANCEV,Women,24 APR 2021,"Spanish Club Championships, Andújar",Andújar (ESP),High Jump,1.66,3.,888
+Una STANCEV,Women,08 MAY 2021,"Campeonato de Andalucía de Clubes, Andújar",Andújar (ESP),High Jump,1.74,1.,965
+Una STANCEV,Women,16 MAY 2021,"Spanish Club Championships, Castellón",Castellón (ESP),High Jump,1.72,2.,945
+Una STANCEV,Women,30 MAY 2021,"Meeting Paco Sánchez Vargas, Estadio de la Juventud de Granada, Granada","Estadio de la Juventud de Granada, Granada (ESP)",High Jump,1.80,1.,1023
+Una STANCEV,Women,05 JUN 2021,"Campeonato de Andalucía, Málaga",Málaga (ESP),High Jump,1.74,1.,965
+Una STANCEV,Women,13 JUN 2021,"Spanish Club Championships, La Nucia",La Nucia (ESP),High Jump,1.75,2.,974
+Una STANCEV,Women,27 JUN 2021,"Spanish Championships, Polideportivo Juan de la Cierva, Getafe","Polideportivo Juan de la Cierva, Getafe (ESP)",High Jump,1.80,2.,1023
+Una STANCEV,Women,04 JUL 2021,"Spanish U20 Championships, Monzón",Monzón (ESP),High Jump,1.76,1.,984
+Una STANCEV,Women,16 JUL 2021,"European Athletics U20 Championships, Kadrioru staadion, Tallinn","Kadrioru staadion, Tallinn (EST)",High Jump,1.70,11.,926
+Una STANCEV,Women,04 DEC 2021,"Campeonato de Andalucía Clubes, Antequera (i)",Antequera (ESP) (i),High Jump,1.73,1.,955
+Una STANCEV,Women,18 DEC 2021,"Spanish U20 Indoor Club Championships, Antequera (i)",Antequera (ESP) (i),High Jump,1.74,1.,965
+Una STANCEV,Women,15 JAN 2022,"Control Meeting, Antequera (i)",Antequera (ESP) (i),High Jump,1.81,1.,1033
+Una STANCEV,Women,30 JAN 2022,"Cto Madrid U23, Gallur, Madrid (i)","Gallur, Madrid (ESP) (i)",High Jump,1.78,1.,1004
+Una STANCEV,Women,05 FEB 2022,"Campeonato Andalucía, Antequera (i)",Antequera (ESP) (i),High Jump,1.75,1.,974
+Una STANCEV,Women,20 FEB 2022,"Spanish U23 Indoor Championships, Pista Cubierta Carlos Gil Perez, Salamanca (i)","Pista Cubierta Carlos Gil Perez, Salamanca (ESP) (i)",High Jump,1.82,1.,1043
+Una STANCEV,Women,26 FEB 2022,"Spanish Indoor Championships, Pistas Expourense, Ourense (i)","Pistas Expourense, Ourense (ESP) (i)",High Jump,1.81,2.,1033
+Una STANCEV,Women,30 APR 2022,"Spanish Club Championships, Andújar",Andújar (ESP),High Jump,1.69,2.,916
+Una STANCEV,Women,07 MAY 2022,"Campeonato España Universitario, Murcia",Murcia (ESP),High Jump,1.73,4.,955
+Una STANCEV,Women,28 MAY 2022,"Trofeo Ana Pérez, Valladolid",Valladolid (ESP),High Jump,1.80,1.,1023
+Una STANCEV,Women,11 JUN 2022,"Liga Iberdrola de Clubes, San Sebastián",San Sebastián (ESP),High Jump,1.85,1.,1072
+Una STANCEV,Women,26 JUN 2022,"Spanish Championships, Estadio Enrique Lopez Cuenca, Nerja","Estadio Enrique Lopez Cuenca, Nerja (ESP)",High Jump,1.85,1.,1072
+Una STANCEV,Women,10 JUL 2022,"Spanish U23 Championships, Santander",Santander (ESP),High Jump,1.78,2.,1004
+Una STANCEV,Women,11 SEP 2022,"Mediterranean Athletics U23 Championships, Stadio Adriatico, Pescara","Stadio Adriatico, Pescara (ITA)",High Jump,1.70,6.,926
+Una STANCEV,Women,30 DEC 2022,"Control F.A.A., Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.78,1.,1004
+Una STANCEV,Women,14 JAN 2023,"Málaga Indoor Match, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.83,1.,1052
+Una STANCEV,Women,21 JAN 2023,"European DNA Meeting Clubes, Velódromo Luis Puig, Valencia (i)","Velódromo Luis Puig, Valencia (ESP) (i)",High Jump,1.65,2.,878
+Una STANCEV,Women,21 JAN 2023,"European DNA Meeting Clubes, Velódromo Luis Puig, Valencia (i)","Velódromo Luis Puig, Valencia (ESP) (i)",High Jump,1.75,2.,974
+Una STANCEV,Women,28 JAN 2023,"Meeting Internacional Catalunya Pista Coberta, Pista Coberta de Catalunya, Sabadell (i)","Pista Coberta de Catalunya, Sabadell (ESP) (i)",High Jump,1.79,4.,1013
+Una STANCEV,Women,05 FEB 2023,"Spanish U23 Indoor Championships, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.75,1.,974
+Una STANCEV,Women,18 FEB 2023,"Spanish Indoor Championships, Gallur, Madrid (i)","Gallur, Madrid (ESP) (i)",High Jump,1.81,1.,1033
+Una STANCEV,Women,22 APR 2023,"Spanish University Championships, Pistas Universad de León, León","Pistas Universad de León, León (ESP)",High Jump,1.71,4.,936
+Una STANCEV,Women,06 MAY 2023,"Spanish Clubs Championships Division Honor Liga Iberdrola - Match 4, Complejo Deportivo Ruth Beitia, Santander","Complejo Deportivo Ruth Beitia, Santander (ESP)",High Jump,1.75,2.,974
+Una STANCEV,Women,18 MAY 2023,"Meeting Desafio Nerja 2023 Restaurante Pulguilla y Ayo, Estadio Enrique Lopez Cuenca, Nerja","Estadio Enrique Lopez Cuenca, Nerja (ESP)",High Jump,1.81,1.,1033
+Una STANCEV,Women,27 MAY 2023,"XXXIII Reunión Internacional Ciudad de Valladolid - Trofeo Ana Perez, Pista de Atletismo Río Esgueva,, Valladolid","Pista de Atletismo Río Esgueva,, Valladolid (ESP)",High Jump,1.79,1.,1013
+Una STANCEV,Women,11 JUN 2023,"Spanish Club Championships Division Honor Liga Iberdrola Final, Estadio Vallehermoso, Madrid","Estadio Vallehermoso, Madrid (ESP)",High Jump,1.81,2.,1033
+Una STANCEV,Women,25 JUN 2023,"European Athletics Team Championships First Division, Stadion Śląski, Chorzów","Stadion Śląski, Chorzów (POL)",High Jump,1.80,6.,1023
+Una STANCEV,Women,02 JUL 2023,"Spanish U23 Championships, Estadi Natalia Rodríguez, Tarragona","Estadi Natalia Rodríguez, Tarragona (ESP)",High Jump,1.83,1.,1052
+Una STANCEV,Women,14 JUL 2023,"European Athletics U23 Championships, Leppävaaran Stadion, Espoo","Leppävaaran Stadion, Espoo (FIN)",High Jump,1.81,5.,1033
+Una STANCEV,Women,16 JUL 2023,"European Athletics U23 Championships, Leppävaaran Stadion, Espoo","Leppävaaran Stadion, Espoo (FIN)",High Jump,1.80,11.,1023
+Una STANCEV,Women,22 JUL 2023,"Meeting Madrid, Estadio Vallehermoso, Madrid","Estadio Vallehermoso, Madrid (ESP)",High Jump,1.84,5.,1062
+Una STANCEV,Women,30 JUL 2023,"Spanish Championships, Pista Parc Central, Torrent","Pista Parc Central, Torrent (ESP)",High Jump,1.86,1.,1082
+Una STANCEV,Women,13 JAN 2024,"Málaga Indoor Match Antequera 2024, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.76,1.,984
+Una STANCEV,Women,04 FEB 2024,"Spanish U23 Indoor Championships, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.79,1.,1013
+Una STANCEV,Women,10 FEB 2024,"Spanish Indoor Clubs Championships (Joma Trophy and Iberdrola Trophy), Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.80,1.,1023
+Una STANCEV,Women,17 FEB 2024,"Spanish Indoor Championships, Pistas Expourense, Ourense (i)","Pistas Expourense, Ourense (ESP) (i)",High Jump,1.84,1.,1062
+Una STANCEV,Women,23 FEB 2024,"World Indoor Tour Gold Madrid 2024, Gallur, Madrid (i) - World Athletics Indoor Tour","Gallur, Madrid (ESP) (i)",High Jump,1.80,9.,1023
+Una STANCEV,Women,13 APR 2024,"Spanish Clubs Championships Division Honor Liga Iberdrola-Leg 1-Match C, Pista de Atletismo de Leganes, Leganes","Pista de Atletismo de Leganes, Leganes (ESP)",High Jump,1.85,1.,1072
+Una STANCEV,Women,30 APR 2024,"Meeting Iberoamericano Huelva 2024, Estadio Iberoamericano, Huelva","Estadio Iberoamericano, Huelva (ESP)",High Jump,1.76,8.,984
+Una STANCEV,Women,04 MAY 2024,"Spanish Clubs Championships Division Honor Liga Iberdrola-Leg 2-Match C, Estadi Joan Serrahima, Barcelona","Estadi Joan Serrahima, Barcelona (ESP)",High Jump,1.78,1.,1004
+Una STANCEV,Women,10 MAY 2024,"Ibero American Athletics Championships, Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba","Pista de Atletismo da Universidade Federal do Mato Grosso, Cuiaba (BRA)",High Jump,1.81,4.,1033
+Una STANCEV,Women,19 MAY 2024,"Míting Internacional Ciutat de Barcelona, Estadi Joan Serrahima, Barcelona","Estadi Joan Serrahima, Barcelona (ESP)",High Jump,1.84,2.,1062
+Una STANCEV,Women,22 MAY 2024,"Desafio Nerja, Estadio Enrique Lopez Cuenca, Nerja","Estadio Enrique Lopez Cuenca, Nerja (ESP)",High Jump,1.84,1.,1062
+Una STANCEV,Women,25 MAY 2024,"Spanish Clubs Championships Division Honor Liga Iberdrola-Final, Pistes d'atletisme Gaetà Huguet, Castellón","Pistes d'atletisme Gaetà Huguet, Castellón (ESP)",High Jump,1.84,2.,1062
+Una STANCEV,Women,15 JUN 2024,"Andalucia Championships, Estadio Enrique Lopez Cuenca, Nerja","Estadio Enrique Lopez Cuenca, Nerja (ESP)",High Jump,1.77,1.,994
+Una STANCEV,Women,30 JUN 2024,"Spanish Championships, Estadi Olímpic Camilo Cano, La Nucia","Estadi Olímpic Camilo Cano, La Nucia (ESP)",High Jump,1.87,1.,1091
+Una STANCEV,Women,06 JUL 2024,"Campeonato España Federaciones Autonómicas, Estadi Olímpic Camilo Cano, La Nucia","Estadi Olímpic Camilo Cano, La Nucia (ESP)",High Jump,1.79,2.,1013
+Una STANCEV,Women,09 JUL 2024,"Cork City Sports, Munster Technological University Track, Cork","Munster Technological University Track, Cork (IRL)",High Jump,1.80,2.,1023
+Una STANCEV,Women,12 JUL 2024,"Morton Games, Morton Stadium, Santry, Dublin","Morton Stadium, Santry, Dublin (IRL)",High Jump,1.84,2.,1062
+Una STANCEV,Women,14 JUL 2024,"Spanish U23 Championships, Pistas Purificación Santamarta, Burgos","Pistas Purificación Santamarta, Burgos (ESP)",High Jump,1.88,1.,1101
+Una STANCEV,Women,10 JAN 2025,"Meeting Internacional de Catalunya, Pista Coberta de Catalunya, Sabadell (i)","Pista Coberta de Catalunya, Sabadell (ESP) (i)",High Jump,1.75,3.,974
+Una STANCEV,Women,22 JAN 2025,"Otrokovice Jump, Městská sportovní hala, Otrokovice (i)","Městská sportovní hala, Otrokovice (CZE) (i)",High Jump,1.81,3.,1033
+Una STANCEV,Women,25 JAN 2025,"Antequera Indoor Match, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.80,1.,1023
+Una STANCEV,Women,29 JAN 2025,"Belgrade Indoor Meeting, Atletska dvorana, Beograd (i) - Indoor Meeting","Atletska dvorana, Beograd (SRB) (i)",High Jump,1.80,7.,1023
+Una STANCEV,Women,06 FEB 2025,"Udin Jump Development, Palaindoor O. Bernes, Udine (i)","Palaindoor O. Bernes, Udine (ITA) (i)",High Jump,1.76,7.,984
+Una STANCEV,Women,15 FEB 2025,"Spanish Indoor Clubs Championships (Joma Trophy and Iberdrola Trophy), Velódromo Luis Puig, Valencia (i)","Velódromo Luis Puig, Valencia (ESP) (i)",High Jump,1.80,1.,1023
+Una STANCEV,Women,22 FEB 2025,"Spanish Indoor Championships, Gallur, Madrid (i)","Gallur, Madrid (ESP) (i)",High Jump,1.82,2.,1043
+Una STANCEV,Women,26 APR 2025,"Spanish Clubs Championships Division Honor Liga Iberdrola Leg 1-Match C, Estadio Vallehermoso, Madrid","Estadio Vallehermoso, Madrid (ESP)",High Jump,1.80,1.,1023
+Una STANCEV,Women,24 MAY 2025,"Spanish Clubs Championships Division Honor Liga Iberdrola-Leg 2-Match C, Pistas Universad de León, León","Pistas Universad de León, León (ESP)",High Jump,1.79,1.,1013
+Una STANCEV,Women,01 JUN 2025,"XXXVII Trofeo Feria Chica, Pista Atmo. Campo de la Juventud,, Palencia","Pista Atmo. Campo de la Juventud,, Palencia (ESP)",High Jump,1.85,1.,1072
+Una STANCEV,Women,04 JUN 2025,"Desafio Nerja, Estadio Enrique Lopez Cuenca, Nerja","Estadio Enrique Lopez Cuenca, Nerja (ESP)",High Jump,1.84,2.,1062
+Una STANCEV,Women,15 JUN 2025,"Spanish Clubs Championships Division Honor Liga Iberdrola-Final, Estadio Los Pajaritos, Soria","Estadio Los Pajaritos, Soria (ESP)",High Jump,1.78,3.,1004
+Una STANCEV,Women,21 JUN 2025,"Atleticageneve - EAP, Centre sportif Bout-du-Monde, Genève","Centre sportif Bout-du-Monde, Genève (SUI)",High Jump,1.91,2.,1131
+Una STANCEV,Women,28 JUN 2025,"Campeonato Andalucia Absoluto aire libre, Estadio Enrique Lopez Cuenca, Nerja","Estadio Enrique Lopez Cuenca, Nerja (ESP)",High Jump,1.88,1.,1101
+Una STANCEV,Women,12 JUL 2025,"Campeonato España Federaciones Autonómicas, Polideportivo Rey Juan Carlos, Ciudad Real","Polideportivo Rey Juan Carlos, Ciudad Real (ESP)",High Jump,1.85,2.,1072
+Una STANCEV,Women,16 JUL 2025,"Meeting International d'Athlétisme de la Province de Liège, Province Naimette Arena, Liège","Province Naimette Arena, Liège (BEL)",High Jump,1.86,4.,1082
+Una STANCEV,Women,25 JUL 2025,"FISU World University Games, Lohrheidestadion, Wattenscheid, Bochum","Lohrheidestadion, Wattenscheid, Bochum (GER)",High Jump,1.81,1.,1033
+Una STANCEV,Women,26 JUL 2025,"FISU World University Games, Lohrheidestadion, Wattenscheid, Bochum","Lohrheidestadion, Wattenscheid, Bochum (GER)",High Jump,1.91,1.,1131
+Una STANCEV,Women,03 AUG 2025,"Spanish Championships, Estadi Natalia Rodríguez, Tarragona","Estadi Natalia Rodríguez, Tarragona (ESP)",High Jump,1.89,1.,1111
+Una STANCEV,Women,07 AUG 2025,"Serbia Athletics Meeting, Athletics Stadium, Beograd","Athletics Stadium, Beograd (SRB)",High Jump,1.86,3.,1082
+Una STANCEV,Women,14 AUG 2025,"Meeting Internacional C.D Meliz Sport, Pista atletismo Fuente de la Niña, Guadalajara","Pista atletismo Fuente de la Niña, Guadalajara (ESP)",High Jump,1.87,1.,1091
+Una STANCEV,Women,24 AUG 2025,"Klaverblad International High Jump Meeting, ARV Ilion, Zoetermeer - Elite Event","ARV Ilion, Zoetermeer (NED)",High Jump,1.85,4.,1072
+Una STANCEV,Women,17 JAN 2026,"Antequera Indoor Match, Centro de Tecnificación de Atletismo, Antequera (i)","Centro de Tecnificación de Atletismo, Antequera (ESP) (i)",High Jump,1.80,1.,1023
+Una STANCEV,Women,24 JAN 2026,"II Trofeo Atletismo Ciudad de Salamanca short track, Pista Cubierta Carlos Gil Perez, Salamanca (i)","Pista Cubierta Carlos Gil Perez, Salamanca (ESP) (i)",High Jump,1.78,1.,1004
+Una STANCEV,Women,06 FEB 2026,"World Indoor Tour Gold Madrid 2026, Gallur, Madrid (i) - World Athletics Indoor Tour","Gallur, Madrid (ESP) (i)",High Jump,1.84,5.,1062
+Una STANCEV,Women,11 FEB 2026,"Belgrade Indoor Meeting, Atletska dvorana, Beograd (i) - World Athletics Indoor Tour","Atletska dvorana, Beograd (SRB) (i)",High Jump,1.83,7.,1052
+Una STANCEV,Women,14 FEB 2026,"Spanish Indoor Clubs Championships (Joma Trophy and Iberdrola Trophy), Velódromo Luis Puig, Valencia (i)","Velódromo Luis Puig, Valencia (ESP) (i)",High Jump,1.85,1.,1072
+Una STANCEV,Women,28 FEB 2026,"Spanish Indoor Championships, Velódromo Luis Puig, Valencia (i)","Velódromo Luis Puig, Valencia (ESP) (i)",High Jump,1.86,1.,1082
+Una STANCEV,Women,25 APR 2026,"Spanish Clubs Championships Division Honor Liga Iberdrola Leg 1-Match C, Estadio Vallehermoso, Madrid","Estadio Vallehermoso, Madrid (ESP)",High Jump,1.87,1.,1091
+Una STANCEV,Women,16 MAY 2026,"Spanish Clubs Championships Division Honor Liga Iberdrola-Leg 2-Match C, Estadio de Larrabide, Pamplona","Estadio de Larrabide, Pamplona (ESP)",High Jump,1.78,1.,1004
+Una STANCEV,Women,31 MAY 2026,"Ibero American Athletics Championships, Estadio Atlético de la VIDENA, Lima","Estadio Atlético de la VIDENA, Lima (PER)",High Jump,1.90,2.,1121
+Una STANCEV,Women,03 JUN 2026,"Granada Challenger, Estadio de la Juventud de Granada, Granada","Estadio de la Juventud de Granada, Granada (ESP)",High Jump,1.88,1.,1101
+Una STANCEV,Women,13 JUN 2026,"Spanish Clubs Championships Division Honor Liga Iberdrola-Final, Estadio de Larrabide, Pamplona","Estadio de Larrabide, Pamplona (ESP)",High Jump,1.84,2.,1062
+Una STANCEV,Women,27 JUN 2026,"Spanish Championships by Regional Federations, CTD Adarraga, Logrono","CTD Adarraga, Logrono (ESP)",High Jump,1.86,1.,1082
+Una STANCEV,Women,04 JUL 2026,"Campeonato Andalucia, Estadio Enrique Lopez Cuenca, Nerja","Estadio Enrique Lopez Cuenca, Nerja (ESP)",High Jump,1.80,1.,1023
+Una STANCEV,Women,07 JUL 2026,"Míting Internacional Ciutat de Barcelona, Estadi Joan Serrahima, Barcelona","Estadi Joan Serrahima, Barcelona (ESP)",High Jump,1.86,1.,1082
+Una STANCEV,Women,11 JUL 2026,"Meeting of Braga, Estádio 1o de Maio, Braga","Estádio 1o de Maio, Braga (POR)",High Jump,1.86,2.,1082
+Una STANCEV,Women,26 JUL 2026,"Spanish Championships, Estadio Ciudad de Málaga, Málaga","Estadio Ciudad de Málaga, Málaga (ESP)",High Jump,1.81,2.,1033
+Una STANCEV,Women,13 AUG 2026,"European Athletics Championships, Alexander Stadium, Birmingham","Alexander Stadium, Birmingham (GBR)",High Jump,1.88,9.,1101
+Una STANCEV,Women,31 AUG 2026,"XX Mediterranean Games, Stadio Giuseppe Valente, Taranto","Stadio Giuseppe Valente, Taranto (ITA)",High Jump,1.87,5.,1091

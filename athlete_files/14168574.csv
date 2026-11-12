@@ -1,0 +1,100 @@
+name,gender,date,competition,venue,discipline,mark,place,resultScore
+Jan MARCELL,Men,22 JAN 2015,Otrokovice (i),Otrokovice (CZE) (i),Shot Put,19.93,1.,1117
+Jan MARCELL,Men,06 FEB 2015,"Linz Gugl Indoor Meeting, Linz (i)",Linz (AUT) (i),Shot Put,20.18,1.,1132
+Jan MARCELL,Men,14 FEB 2015,"Wien ASVÖ Indoor Gala, Wien (i)",Wien (AUT) (i),Shot Put,20.25,2.,1136
+Jan MARCELL,Men,22 FEB 2015,"Czech Indoor Championships, Praha (i)",Praha (CZE) (i),Shot Put,20.71,1.,1163
+Jan MARCELL,Men,05 MAR 2015,"European Indoor Championships, O2 Arena, Praha (i)","O2 Arena, Praha (CZE) (i)",Shot Put,19.45,14.,1088
+Jan MARCELL,Men,16 MAY 2015,"Ostrava Czech Club Championships, Ostrava",Ostrava (CZE),Shot Put,19.67,1.,1101
+Jan MARCELL,Men,16 MAY 2015,"Ostrava Czech Club Championships, Ostrava",Ostrava (CZE),Discus Throw,60.45,1.,1069
+Jan MARCELL,Men,19 MAY 2015,"Turnov Ludvík Daňek Memorial, Turnov",Turnov (CZE),Shot Put,19.58,1.,1096
+Jan MARCELL,Men,23 MAY 2015,"Mersin Turkish Club Championships, Mersin",Mersin (TUR),Shot Put,19.27,1.,1077
+Jan MARCELL,Men,30 MAY 2015,"Mersin ECCC Group A, Mersin",Mersin (TUR),Shot Put,18.82,4.,1051
+Jan MARCELL,Men,31 MAY 2015,"Mersin ECCC Group A, Mersin",Mersin (TUR),Discus Throw,54.30,4.,956
+Jan MARCELL,Men,14 JUN 2015,"Kladno Czech Club Championships, Kladno",Kladno (CZE),Shot Put,19.26,2.,1077
+Jan MARCELL,Men,14 JUN 2015,"Kladno Czech Club Championships, Kladno",Kladno (CZE),Discus Throw,50.25,3.,882
+Jan MARCELL,Men,28 JUN 2015,"Czech Championships, Plzeň",Plzeň (CZE),Shot Put,19.64,2.,1099
+Jan MARCELL,Men,13 JUL 2015,Ústí nad Labem,Ústí nad Labem (CZE),Shot Put,19.82,5.,1110
+Jan MARCELL,Men,13 JUL 2015,Ústí nad Labem,Ústí nad Labem (CZE),Discus Throw,57.37,2.,1012
+Jan MARCELL,Men,14 JUL 2015,"Děčín Memoriál Vlastimila Koči, Děčín",Děčín (CZE),Shot Put,19.81,4.,1110
+Jan MARCELL,Men,01 AUG 2015,Pacov,Pacov (CZE),Shot Put,19.58,1.,1096
+Jan MARCELL,Men,01 AUG 2015,Pacov,Pacov (CZE),Discus Throw,57.32,2.,1011
+Jan MARCELL,Men,11 AUG 2015,Pardubice,Pardubice (CZE),Shot Put,20.07,1.,1125
+Jan MARCELL,Men,11 AUG 2015,Pardubice,Pardubice (CZE),Discus Throw,56.15,3.,990
+Jan MARCELL,Men,23 AUG 2015,"IAAF World Championships, National Stadium, Beijing","National Stadium, Beijing (CHN)",Shot Put,20.32,7.,1140
+Jan MARCELL,Men,23 AUG 2015,"IAAF World Championships, National Stadium, Beijing","National Stadium, Beijing (CHN)",Shot Put,19.69,10.,1102
+Jan MARCELL,Men,04 SEP 2015,"Ankara Turkish Clubs Super League, Ankara",Ankara (TUR),Shot Put,19.58,1.,1096
+Jan MARCELL,Men,06 SEP 2015,"Praha Czech Club Championships, Praha",Praha (CZE),Shot Put,19.33,1.,1081
+Jan MARCELL,Men,06 SEP 2015,"Praha Czech Club Championships, Praha",Praha (CZE),Discus Throw,55.32,3.,974
+Jan MARCELL,Men,14 MAY 2016,"Plzeň Czech Club Championships, Plzeň",Plzeň (CZE),Shot Put,18.52,3.,1033
+Jan MARCELL,Men,14 MAY 2016,"Plzeň Czech Club Championships, Plzeň",Plzeň (CZE),Discus Throw,54.36,4.,957
+Jan MARCELL,Men,24 MAY 2016,"Turnov Ludvík Daňek Memorial, Turnov",Turnov (CZE),Shot Put,18.58,4.,1036
+Jan MARCELL,Men,12 JUN 2016,"Kolín Czech Club Championships, Kolin",Kolin (CZE),Shot Put,18.12,4.,1009
+Jan MARCELL,Men,12 JUN 2016,"Kolín Czech Club Championships, Kolin",Kolin (CZE),Discus Throw,56.73,3.,1000
+Jan MARCELL,Men,17 JUN 2016,"Czech Championships, Tábor",Tábor (CZE),Shot Put,18.70,5.,1043
+Jan MARCELL,Men,18 JUN 2016,"Czech Championships, Tábor",Tábor (CZE),Discus Throw,58.34,3.,1030
+Jan MARCELL,Men,22 JUN 2016,Pardubice,Pardubice (CZE),Shot Put,18.87,2.,1053
+Jan MARCELL,Men,22 JUN 2016,Pardubice,Pardubice (CZE),Discus Throw,49.24,6.,863
+Jan MARCELL,Men,26 JUN 2016,Praha,Praha (CZE),Shot Put,19.09,1.,1067
+Jan MARCELL,Men,29 JUN 2016,Brno,Brno (CZE),Discus Throw,61.25,1.,1083
+Jan MARCELL,Men,03 JUL 2016,Pacov,Pacov (CZE),Discus Throw,58.82,1.,1039
+Jan MARCELL,Men,13 JUL 2016,Brno,Brno (CZE),Discus Throw,61.68,1.,1091
+Jan MARCELL,Men,17 JUL 2016,Wien,Wien (AUT),Shot Put,18.49,1.,1031
+Jan MARCELL,Men,17 JUL 2016,Wien,Wien (AUT),Discus Throw,60.12,1.,1063
+Jan MARCELL,Men,19 JUL 2016,"Ústí nad Labem Grand Prix, Ústí nad Labem",Ústí nad Labem (CZE),Shot Put,19.01,7.,1062
+Jan MARCELL,Men,23 JUL 2016,Kladno,Kladno (CZE),Shot Put,19.74,1.,1105
+Jan MARCELL,Men,23 JUL 2016,Kladno,Kladno (CZE),Discus Throw,58.19,1.,1027
+Jan MARCELL,Men,30 JUL 2016,Nové Město nad Metují,Nové Město nad Metují (CZE),Shot Put,19.25,1.,1076
+Jan MARCELL,Men,30 JUL 2016,Nové Město nad Metují,Nové Město nad Metují (CZE),Discus Throw,59.68,1.,1054
+Jan MARCELL,Men,14 AUG 2016,"Třebíč, Trebic",Trebic (CZE),Shot Put,19.30,1.,1079
+Jan MARCELL,Men,14 AUG 2016,"Třebíč, Trebic",Trebic (CZE),Discus Throw,60.07,1.,1062
+Jan MARCELL,Men,04 SEP 2016,"Ústí nad Orlicí Czech Club Championships, Ustí Nad Orlicí",Ustí Nad Orlicí (CZE),Shot Put,18.79,2.,1049
+Jan MARCELL,Men,04 SEP 2016,"Ústí nad Orlicí Czech Club Championships, Ustí Nad Orlicí",Ustí Nad Orlicí (CZE),Discus Throw,59.72,1.,1055
+Jan MARCELL,Men,07 SEP 2016,Hradec Králové,Hradec Králové (CZE),Shot Put,17.70,1.,984
+Jan MARCELL,Men,07 SEP 2016,Hradec Králové,Hradec Králové (CZE),Discus Throw,58.69,1.,1036
+Jan MARCELL,Men,17 SEP 2016,Pacov,Pacov (CZE),Shot Put,18.17,2.,1012
+Jan MARCELL,Men,17 SEP 2016,Pacov,Pacov (CZE),Discus Throw,60.44,1.,1068
+Jan MARCELL,Men,04 FEB 2017,Ostrava (i),Ostrava (CZE) (i),Shot Put,18.92,2.,1056
+Jan MARCELL,Men,26 FEB 2017,"Czech Indoor Championships, Praha (i)",Praha (CZE) (i),Shot Put,18.85,3.,1052
+Jan MARCELL,Men,08 MAY 2017,Olomouc,Olomouc (CZE),Shot Put,17.60,4.,978
+Jan MARCELL,Men,08 MAY 2017,Olomouc,Olomouc (CZE),Discus Throw,58.28,1.,1029
+Jan MARCELL,Men,10 MAY 2017,Brno,Brno (CZE),Shot Put,18.30,1.,1020
+Jan MARCELL,Men,10 MAY 2017,Brno,Brno (CZE),Discus Throw,57.21,1.,1009
+Jan MARCELL,Men,13 MAY 2017,"Praha Czech Club Championships, Praha",Praha (CZE),Shot Put,18.04,3.,1004
+Jan MARCELL,Men,13 MAY 2017,"Praha Czech Club Championships, Praha",Praha (CZE),Discus Throw,56.84,3.,1002
+Jan MARCELL,Men,24 MAY 2017,Brno,Brno (CZE),Discus Throw,57.29,1.,1011
+Jan MARCELL,Men,03 JUN 2017,Třinec,Třinec (CZE),Discus Throw,59.94,OC,1059
+Jan MARCELL,Men,10 JUN 2017,"Czech Championships, Třinec",Třinec (CZE),Discus Throw,59.59,1.,1053
+Jan MARCELL,Men,11 JUN 2017,"Czech Championships, Třinec",Třinec (CZE),Shot Put,17.69,4.,983
+Jan MARCELL,Men,17 JUN 2017,Ostrava,Ostrava (CZE),Shot Put,18.38,2.,1024
+Jan MARCELL,Men,17 JUN 2017,Ostrava,Ostrava (CZE),Discus Throw,58.08,1.,1025
+Jan MARCELL,Men,02 JUL 2017,"Ostrava Czech Club Championships, Ostrava",Ostrava (CZE),Shot Put,17.64,2.,980
+Jan MARCELL,Men,02 JUL 2017,"Ostrava Czech Club Championships, Ostrava",Ostrava (CZE),Discus Throw,59.15,1.,1045
+Jan MARCELL,Men,12 JUL 2017,Brno,Brno (CZE),Discus Throw,60.28,1.,1065
+Jan MARCELL,Men,15 JUL 2017,Kladno,Kladno (CZE),Discus Throw,56.47,1.,996
+Jan MARCELL,Men,19 JUL 2017,Brno,Brno (CZE),Discus Throw,58.89,1.,1040
+Jan MARCELL,Men,20 AUG 2017,Pacov,Pacov (CZE),Discus Throw,58.33,1.,1030
+Jan MARCELL,Men,10 SEP 2017,"Plzeň Czech Club Championships, Plzeň",Plzeň (CZE),Shot Put,18.13,2.,1009
+Jan MARCELL,Men,10 SEP 2017,"Plzeň Czech Club Championships, Plzeň",Plzeň (CZE),Discus Throw,56.69,1.,1000
+Jan MARCELL,Men,19 MAY 2018,"Praha Czech Club Championships, Praha",Praha (CZE),Shot Put,17.67,3.,982
+Jan MARCELL,Men,19 MAY 2018,"Praha Czech Club Championships, Praha",Praha (CZE),Discus Throw,56.79,2.,1001
+Jan MARCELL,Men,26 MAY 2018,"Tampere ECCC Group B, Tampere",Tampere (FIN),Shot Put,18.19,1.,1013
+Jan MARCELL,Men,26 MAY 2018,"Tampere ECCC Group B, Tampere",Tampere (FIN),Discus Throw,58.53,1.,1033
+Jan MARCELL,Men,01 JUL 2018,"Ostrava Czech Club Championships, Ostrava",Ostrava (CZE),Shot Put,17.54,2.,974
+Jan MARCELL,Men,01 JUL 2018,"Ostrava Czech Club Championships, Ostrava",Ostrava (CZE),Discus Throw,59.08,1.,1043
+Jan MARCELL,Men,28 JUL 2018,"Czech Championships, Kladno",Kladno (CZE),Discus Throw,57.08,2.,1007
+Jan MARCELL,Men,18 AUG 2018,Pacov,Pacov (CZE),Shot Put,17.84,1.,992
+Jan MARCELL,Men,18 AUG 2018,Pacov,Pacov (CZE),Discus Throw,56.28,2.,992
+Jan MARCELL,Men,26 AUG 2018,"Uherské Hradiště, Uherské Hradiste",Uherské Hradiste (CZE),Shot Put,17.72,2.,985
+Jan MARCELL,Men,26 AUG 2018,"Uherské Hradiště, Uherské Hradiste",Uherské Hradiste (CZE),Discus Throw,56.09,1.,989
+Jan MARCELL,Men,18 MAY 2019,"Czech Club Championships, Plzeň",Plzeň (CZE),Shot Put,17.20,4.,954
+Jan MARCELL,Men,18 MAY 2019,"Czech Club Championships, Plzeň",Plzeň (CZE),Discus Throw,56.06,3.,988
+Jan MARCELL,Men,25 MAY 2019,"ECCC Group A, Castellón",Castellón (ESP),Shot Put,18.01,5.,1002
+Jan MARCELL,Men,26 MAY 2019,"ECCC Group A, Castellón",Castellón (ESP),Discus Throw,58.51,4.,1033
+Jan MARCELL,Men,26 JUL 2019,"Czech Championships, Brno",Brno (CZE),Discus Throw,55.02,3.,969
+Jan MARCELL,Men,24 AUG 2019,"Czech Club Championships, Stadion Juliska, Praha","Stadion Juliska, Praha (CZE)",Shot Put,16.82,5.,932
+Jan MARCELL,Men,24 AUG 2019,"Czech Club Championships, Stadion Juliska, Praha","Stadion Juliska, Praha (CZE)",Discus Throw,55.66,3.,981
+Jan MARCELL,Men,28 AUG 2019,"Memoriál Josefa Sečkáře, Brno",Brno (CZE),Discus Throw,52.02,2.,914
+Jan MARCELL,Men,04 SEP 2019,"Atletická vrhačská středa, Brno",Brno (CZE),Discus Throw,53.90,1.,948
+Jan MARCELL,Men,08 SEP 2019,"Czech Club Championships, Hodonín",Hodonín (CZE),Shot Put,17.62,3.,979
+Jan MARCELL,Men,08 SEP 2019,"Czech Club Championships, Hodonín",Hodonín (CZE),Discus Throw,54.66,3.,962
+Jan MARCELL,Men,11 SEP 2019,"Atletická vrhačská středa, Brno",Brno (CZE),Discus Throw,55.91,1.,985

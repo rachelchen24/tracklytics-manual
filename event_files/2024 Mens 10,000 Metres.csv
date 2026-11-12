@@ -1,0 +1,101 @@
+Rank,Mark,Competitor,DOB,Country,Pos,Venue,Date,Results Score,athlete_id,profile_url
+1,26:31.01,Yomif KEJELCHA,01 AUG 1997,ETH,1,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1273,14594967,https://worldathletics.org/athletes/athlete=14594967
+2,26:31.13,Berihu AREGAWI,28 FEB 2001,ETH,2,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1273,14848753,https://worldathletics.org/athletes/athlete=14848753
+3,26:34.93,Selemon BAREGA,20 JAN 2000,ETH,3,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1267,14751317,https://worldathletics.org/athletes/athlete=14751317
+4,26:37.93,Biniam MEHARY,20 DEC 2006,ETH,4,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1262,15118094,https://worldathletics.org/athletes/ethiopia/biniam-mehary-15118094
+5,26:42.65,Gemechu DIDA,12 SEP 1999,ETH,5,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1254,14825107,https://worldathletics.org/athletes/athlete=14825107
+6,26:43.14,Joshua CHEPTEGEI,12 SEP 1996,UGA,1,"Stade de France, Paris (FRA)",02 AUG 2024,1253,14645612,https://worldathletics.org/athletes/athlete=14645612
+7,26:43.46,Grant FISHER,22 APR 1997,USA,3,"Stade de France, Paris (FRA)",02 AUG 2024,1253,14591210,https://worldathletics.org/athletes/athlete=14591210
+8,26:43.79,Mohammed AHMED,05 JAN 1991,CAN,4,"Stade de France, Paris (FRA)",02 AUG 2024,1252,14330105,https://worldathletics.org/athletes/athlete=14330105
+9,26:46.39,Jacob KIPLIMO,14 NOV 2000,UGA,7,"Stade de France, Paris (FRA)",02 AUG 2024,1248,14735365,https://worldathletics.org/athletes/athlete=14735365
+10,26:46.80,Tadese WORKU,20 JAN 2002,ETH,6,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1247,14566477,https://worldathletics.org/athletes/athlete=14566477
+11,26:49.49,Thierry NDIKUMWENAYO,26 MAR 1997,ESP,8,"Stade de France, Paris (FRA)",02 AUG 2024,1243,14661449,https://worldathletics.org/athletes/athlete=14661449
+12,26:50.64,Adriaan WILDSCHUTT,03 MAY 1998,RSA,9,"Stade de France, Paris (FRA)",02 AUG 2024,1241,14741268,https://worldathletics.org/athletes/athlete=14741268
+13,26:50.81,Daniel MATEIKO,04 AUG 1998,KEN,1,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1241,14916367,https://worldathletics.org/athletes/athlete=14916367
+14,26:50.94,Nicholas KIPKORIR,29 SEP 1998,KEN,2,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1241,14708978,https://worldathletics.org/athletes/athlete=14708978
+15,26:51.09,Benard Kibet KOECH,25 NOV 1999,KEN,3,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1240,14748373,https://worldathletics.org/athletes/athlete=14748373
+16,26:51.54,Edwin KURGAT,19 MAY 1996,KEN,4,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1240,14401023,https://worldathletics.org/athletes/athlete=14401023
+17,26:52.72,Nico YOUNG,27 JUL 2002,USA,2f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1238,14882782,https://worldathletics.org/athletes/athlete=14882782
+18,26:52.87,Andreas ALMGREN,12 JUN 1995,SWE,3f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1238,14460738,https://worldathletics.org/athletes/athlete=14460738
+19,26:53.84,Habtom SAMUEL,30 NOV 2003,ERI,5f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1236,14919315,https://worldathletics.org/athletes/athlete=14919315
+20,26:55.09,Benson KIPLANGAT,17 JUN 2003,KEN,5,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1234,14989931,https://worldathletics.org/athletes/athlete=14989931
+21,26:55.51,Merhawi MEBRAHTU,21 SEP 2003,ERI,7,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1233,14935339,https://worldathletics.org/athletes/athlete=14935339
+22,26:57.57,William KINCAID,21 SEP 1992,USA,7f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1230,14493258,https://worldathletics.org/athletes/athlete=14493258
+23,26:58.67,Jimmy GRESSIER,04 MAY 1997,FRA,12,"Stade de France, Paris (FRA)",02 AUG 2024,1228,14694062,https://worldathletics.org/athletes/athlete=14694062
+24,26:58.97,Kibiwott KANDIE,20 JUN 1996,KEN,6,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1228,14780952,https://worldathletics.org/athletes/athlete=14780952
+25,27:07.37,Stanley Waithaka MBURU,09 APR 2000,KEN,7,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1214,14802641,https://worldathletics.org/athletes/athlete=14802641
+26,27:07.97,Isaac KIMELI,09 MAR 1994,BEL,9f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1213,14482919,https://worldathletics.org/athletes/athlete=14482919
+27,27:08.81,Patrick DEVER,05 SEP 1996,GBR,10f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1212,14523465,https://worldathletics.org/athletes/athlete=14523465
+28,27:08.94,Anthony ROTICH,20 OCT 1990,USA,11f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1212,14511345,https://worldathletics.org/athletes/athlete=14511345
+29,27:09.29,Joe KLECKER,16 NOV 1996,USA,12f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1211,14576389,https://worldathletics.org/athletes/athlete=14576389
+30,27:09.57,Jack RAYNER,19 DEC 1995,AUS,13f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1211,14517160,https://worldathletics.org/athletes/athlete=14517160
+31,27:09.74,Aron KIFLE,20 FEB 1998,ERI,8,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1211,14693555,https://worldathletics.org/athletes/athlete=14693555
+32,27:12.89,Hagos GEBRHIWET,11 MAY 1994,ETH,9,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1206,14477352,https://worldathletics.org/athletes/athlete=14477352
+33,27:14.88,Gulveer SINGH,01 JUN 1998,IND,1f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1202,15023839,https://worldathletics.org/athletes/india/gulveer-singh-15023839
+34,27:17.28,Abdihamid NUR,14 OCT 1997,USA,14f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1199,14840626,https://worldathletics.org/athletes/athlete=14840626
+35,27:17.46,Jun KASAI,24 OCT 2000,JPN,1,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2024,1198,14883987,https://worldathletics.org/athletes/athlete=14883987
+36,27:17.78,Samwel Chebolei MASAI,20 MAR 2001,KEN,2f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1198,14798170,https://worldathletics.org/athletes/athlete=14798170
+37,27:19.35,Gilbert Kipkosgei KIPROTICH,12 MAY 2000,KEN,3f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1195,14989875,https://worldathletics.org/athletes/kenya/gilbert-kipkosgei-kiprotich-14989875
+38,27:20.05,Shadrack KIPKEMEI,01 JUL 2003,KEN,1,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",27 APR 2024,1194,15090516,https://worldathletics.org/athletes/kenya/shadrack-kipkemei-15090516
+39,27:20.33,Mebuki SUZUKI,03 JUN 2001,JPN,4f8,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1194,14854889,https://worldathletics.org/athletes/athlete=14854889
+40,27:20.93,Benjamin FLANAGAN,11 JAN 1995,CAN,15f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1193,14479051,https://worldathletics.org/athletes/athlete=14479051
+41,27:20.94,Tomoki OTA,17 OCT 1997,JPN,2,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2024,1193,14719583,https://worldathletics.org/athletes/athlete=14719583
+42,27:21.52,Kazuma MAEDA,16 JAN 2005,JPN,3,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2024,1192,14998590,https://worldathletics.org/athletes/japan/kazuma-maeda-14998590
+43,27:22.32,Richard LODUNG,12 DEC 2003,KEN,2,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",28 SEP 2024,1191,15019944,https://worldathletics.org/athletes/kenya/richard-lodung-15019944
+44,27:22.38,Mohamed ISMAIL,01 JAN 1997,DJI,1,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1191,14661612,https://worldathletics.org/athletes/athlete=14661612
+45,27:23.09,James Mwanzia MUTUKU,20 DEC 2002,KEN,3,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",27 APR 2024,1189,14894335,https://worldathletics.org/athletes/athlete=14894335
+46,27:23.52,Richard YATOR,04 JUN 1998,KEN,4,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",27 APR 2024,1189,14708970,https://worldathletics.org/athletes/athlete=14708970
+47,27:24.33,Daniel Simiu EBENYO,18 SEP 1995,KEN,8,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1187,14916366,https://worldathletics.org/athletes/athlete=14916366
+48,27:26.02,Luis GRIJALVA,10 APR 1999,GUA,16f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1185,14749285,https://worldathletics.org/athletes/athlete=14749285
+49,27:26.18,Boki DIRIBA,25 FEB 2004,ETH,11,"Estadio Enrique Lopez Cuenca, Nerja (ESP)",14 JUN 2024,1185,15008615,https://worldathletics.org/athletes/ethiopia/boki-diriba-15008615
+50,27:27.11,Felix BOUR,25 MAR 1994,FRA,3,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1183,14467653,https://worldathletics.org/athletes/athlete=14467653
+51,27:27.50,Gideon Kipkertich RONO,22 FEB 2003,KEN,5,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",27 APR 2024,1182,14858600,https://worldathletics.org/athletes/athlete=14858600
+52,27:27.77,Antipas Kibet KANDIE,02 APR 1996,KEN,6,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",27 APR 2024,1182,14808800,https://worldathletics.org/athletes/athlete=14808800
+53,27:29.10,Emmanuel Kiprop KIPRUTO,16 OCT 1999,KEN,1f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1180,14847970,https://worldathletics.org/athletes/athlete=14847970
+54,27:29.11,Evans Keitany KIPTUM,27 NOV 1999,KEN,2f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1180,14477630,https://worldathletics.org/athletes/athlete=14477630
+55,27:29.33,Emmanuel Moi MARU,04 JAN 2001,KEN,3f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1180,14974970,https://worldathletics.org/athletes/athlete=14974970
+56,27:29.82,Brian KIPTOO,15 APR 2000,KEN,4f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1179,14858602,https://worldathletics.org/athletes/athlete=14858602
+57,27:30.14,Kelvin KIPLAGAT,31 JAN 2004,KEN,5f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1178,15042019,https://worldathletics.org/athletes/kenya/kelvin-kiplagat-15042019
+58,27:30.51,Dan KIPLANGAT,04 JUN 1996,KEN,6f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1178,14796112,https://worldathletics.org/athletes/athlete=14796112
+59,27:30.70,Shadrack RONO,01 JAN 2002,KEN,7f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1177,14989936,https://worldathletics.org/athletes/kenya/shadrack-rono-14989936
+60,27:30.94,Birhanu BALEW,27 FEB 1996,BRN,16,"Stade de France, Paris (FRA)",02 AUG 2024,1177,14695983,https://worldathletics.org/athletes/athlete=14695983
+61,27:32.29,Athanas KIOKO,26 FEB 1995,KEN,18f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1175,14923169,https://worldathletics.org/athletes/athlete=14923169
+62,27:33.58,Charles HICKS,25 JUL 2001,GBR,19f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1173,14884801,https://worldathletics.org/athletes/athlete=14884801
+63,27:33.76,Edwin KIPSAISAK,16 MAR 2005,KEN,9f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1173,14989888,https://worldathletics.org/athletes/athlete=14989888
+64,27:34.04,Paul CHELIMO,27 OCT 1990,USA,4,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1172,14454958,https://worldathletics.org/athletes/athlete=14454958
+65,27:34.30,Tadesse GETAHON,20 DEC 1997,ISR,6,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1172,14737734,https://worldathletics.org/athletes/athlete=14737734
+66,27:34.53,Akira AIZAWA,18 JUL 1997,JPN,5,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2024,1171,14675312,https://worldathletics.org/athletes/athlete=14675312
+67,27:34.66,Keita SATOH,22 JAN 2004,JPN,20f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1171,14954502,https://worldathletics.org/athletes/athlete=14954502
+68,27:35.05,Kotaro SHINOHARA,03 SEP 2002,JPN,6,"Prefectural Shizuoka Stadium, Fukuroi (JPN)",03 MAY 2024,1171,14895798,https://worldathletics.org/athletes/athlete=14895798
+69,27:35.92,Jamal Abdelmaji EISA MOHAMMED,25 AUG 1993,EOR,17,"Stade de France, Paris (FRA)",02 AUG 2024,1169,14737735,https://worldathletics.org/athletes/athlete=14737735
+70,27:36.13,Rogers KIBET,26 MAR 2003,UGA,10f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1169,14999531,https://worldathletics.org/athletes/athlete=14999531
+71,27:36.23,Abdessamad OUKHELFEN,18 DEC 1998,ESP,7,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1169,14708418,https://worldathletics.org/athletes/athlete=14708418
+72,27:36.29,Dominic Lokinyomo LOBALU,16 AUG 1998,SUI,1,"Berufsschulzentrum, Interlaken (SUI)",04 MAY 2024,1169,14792211,https://worldathletics.org/athletes/athlete=14792211
+73,27:36.37,Kazuya SHIOJIRI,08 NOV 1996,JPN,1,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",01 DEC 2024,1169,14648834,https://worldathletics.org/athletes/athlete=14648834
+73,27:36.37,Philemon Kiplagat RUTO,20 SEP 2001,KEN,1,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",01 DEC 2024,1169,14758181,https://worldathletics.org/athletes/athlete=14758181
+75,27:37.39,Shadrack KIPCHIRCHIR,25 APR 2001,KEN,11f6,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1167,14892070,https://worldathletics.org/athletes/athlete=14892070
+76,27:37.68,Francis ABONG,23 MAR 1996,KEN,9,"Hayward Field, Eugene, OR (USA)",25 MAY 2024,1166,15019942,https://worldathletics.org/athletes/kenya/francis-abong-15019942
+77,27:38.28,Tomoya OGIKUBO,11 DEC 1997,JPN,1f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1166,14813995,https://worldathletics.org/athletes/athlete=14813995
+78,27:38.39,Rory LEONARD,13 FEB 2001,GBR,8,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1165,14805205,https://worldathletics.org/athletes/athlete=14805205
+79,27:38.87,Andrew HUNTER,05 SEP 1997,USA,1f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1165,14642310,https://worldathletics.org/athletes/athlete=14642310
+80,27:39.05,Ryuto IGAWA,05 SEP 2000,JPN,2f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1164,14854888,https://worldathletics.org/athletes/athlete=14854888
+81,27:40.02,Efrem GIDEY,03 SEP 2000,IRL,9,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1163,14842722,https://worldathletics.org/athletes/athlete=14842722
+82,27:40.80,Ryan FORD,26 OCT 1997,USA,10,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1162,14776630,https://worldathletics.org/athletes/united-states/ryan-ford-14776630
+83,27:41.11,David Shungeya NEIYIAI,17 DEC 2000,KEN,1f2,"National Stadium, Tokyo (JPN)",09 MAY 2024,1161,14973356,https://worldathletics.org/athletes/kenya/david-shungeya-neiyiai-14973356
+84,27:41.20,Anthony KIBE,27 MAR 2003,KEN,1,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",01 JUN 2024,1161,14849600,https://worldathletics.org/athletes/athlete=14849600
+85,27:41.37,Valentin GONDOUIN,04 MAR 1999,FRA,11,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1161,14900468,https://worldathletics.org/athletes/athlete=14900468
+86,27:41.52,Stephen MUTHINI,20 JUL 2005,KEN,2f2,"National Stadium, Tokyo (JPN)",09 MAY 2024,1160,14989882,https://worldathletics.org/athletes/kenya/stephen-muthini-14989882
+87,27:41.81,Samson NDIRANGU,14 MAY 1994,KEN,2,"Egao Kenko Stadium, Kumamoto (JPN)",13 APR 2024,1160,14950199,https://worldathletics.org/athletes/kenya/samson-ndirangu-14950199
+88,27:41.92,Nils VOIGT,02 MAY 1997,GER,12,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1160,14598243,https://worldathletics.org/athletes/athlete=14598243
+89,27:42.04,Alexander MUNYAO,10 SEP 1996,KEN,2,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",09 NOV 2024,1160,14590685,https://worldathletics.org/athletes/athlete=14590685
+90,27:42.43,Boniface MULWA,16 APR 2000,KEN,3,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",09 NOV 2024,1159,14892079,https://worldathletics.org/athletes/athlete=14892079
+91,27:42.65,Yuto IMAE,26 JAN 1998,JPN,3f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1159,14862962,https://worldathletics.org/athletes/athlete=14862962
+92,27:42.72,Simon BEDARD,03 JAN 1997,FRA,13,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1159,14643587,https://worldathletics.org/athletes/athlete=14643587
+93,27:42.76,Brian KIPYEGON,10 OCT 2004,KEN,4,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",09 NOV 2024,1159,15096291,https://worldathletics.org/athletes/kenya/brian-kipyegon-15096291
+94,27:42.81,Jonathan Muia NDIKU,18 SEP 1991,KEN,2,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",01 JUN 2024,1158,14209367,https://worldathletics.org/athletes/athlete=14209367
+95,27:42.83,Davor Aaron BIENENFELD,25 SEP 1997,GER,3f2,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1158,14716024,https://worldathletics.org/athletes/athlete=14716024
+96,27:42.88,Yamato YOSHII,14 FEB 2002,JPN,4f7,"Kamiyugi Park Athletic Stadium, Hachioji (JPN)",23 NOV 2024,1158,14851972,https://worldathletics.org/athletes/athlete=14851972
+97,27:42.94,Célestin NDIKUMANA,22 FEB 2002,BDI,14,"Parliament Hill Fields Athletics Track, London (GBR)",18 MAY 2024,1158,14993101,https://worldathletics.org/athletes/athlete=14993101
+98,27:42.99,Emmanuel BOR,14 APR 1988,USA,21f3,"JSerra Catholic HS, San Juan Capistrano, CA (USA)",16 MAR 2024,1158,14207433,https://worldathletics.org/athletes/athlete=14207433
+99,27:43.04,Andrew LOROT,02 DEC 1997,KEN,3,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",01 JUN 2024,1158,14689595,https://worldathletics.org/athletes/athlete=14689595
+100,27:43.13,Nganga Joseph WAWERU,02 JAN 2001,KEN,4,"NITTAIDAI Athletic Stadium, Yokohama (JPN)",01 JUN 2024,1158,14768762,https://worldathletics.org/athletes/athlete=14768762

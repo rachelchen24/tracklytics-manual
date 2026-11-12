@@ -1,0 +1,70 @@
+name,gender,date,competition,venue,discipline,mark,place,resultScore
+Hana BASIC,Women,10 JAN 2015,Melbourne,Melbourne (AUS),100 Metres,12.54,2.,857
+Hana BASIC,Women,07 FEB 2015,"Canberra Track Classic, Canberra",Canberra (AUS),100 Metres,12.00,8.,992
+Hana BASIC,Women,10 OCT 2015,Melbourne,Melbourne (AUS),100 Metres,12.34,3.,925
+Hana BASIC,Women,16 JAN 2016,Melbourne,Melbourne (AUS),100 Metres,12.82,4.,850
+Hana BASIC,Women,05 NOV 2016,"Brisbane Cathy Freeman Shield, Brisbane",Brisbane (AUS),100 Metres,11.85,1.,1007
+Hana BASIC,Women,05 NOV 2016,"Brisbane Cathy Freeman Shield, Brisbane",Brisbane (AUS),200 Metres,24.80,2.,960
+Hana BASIC,Women,08 DEC 2016,"Melbourne Zatopek:10, Melbourne",Melbourne (AUS),100 Yards,11.05,5.,0
+Hana BASIC,Women,21 JAN 2017,"Melbourne AV Shield, Melbourne - Open Event",Melbourne (AUS),100 Metres,12.43,1.,914
+Hana BASIC,Women,27 JAN 2017,"Melbourne Victorian Country Ch., Melbourne",Melbourne (AUS),100 Metres,12.68,3.,872
+Hana BASIC,Women,28 JAN 2017,"Melbourne Victorian Country Ch., Melbourne",Melbourne (AUS),200 Metres,25.91,4.,860
+Hana BASIC,Women,17 FEB 2017,"Canberra AACT Ch., Canberra",Canberra (AUS),100 Metres,12.17,5.,943
+Hana BASIC,Women,24 FEB 2017,"Melbourne Victorian Ch., Melbourne",Melbourne (AUS),100 Metres,12.31,4.,937
+Hana BASIC,Women,26 FEB 2017,"Melbourne Victorian Ch., Melbourne",Melbourne (AUS),100 Metres,12.23,7.,947
+Hana BASIC,Women,31 MAR 2017,"Australian Championships, Sydney",Sydney (AUS),100 Metres,12.32,4.,933
+Hana BASIC,Women,01 APR 2017,"Australian Championships, Sydney",Sydney (AUS),100 Metres,12.22,7.,948
+Hana BASIC,Women,11 NOV 2017,Melbourne,Melbourne (AUS),4x100 Metres Relay,46.97,2.,1014
+Hana BASIC,Women,11 NOV 2017,Melbourne,Melbourne (AUS),4x100 Metres Relay,46.95,2.,1015
+Hana BASIC,Women,25 NOV 2017,"Brisbane Jai Taurima Shield, Brisbane",Brisbane (AUS),100 Metres,12.16,3.,961
+Hana BASIC,Women,03 DEC 2017,"Brisbane Joanna Stone Shield, Brisbane",Brisbane (AUS),100 Metres,12.05,4.,982
+Hana BASIC,Women,03 DEC 2017,"Brisbane Joanna Stone Shield, Brisbane",Brisbane (AUS),200 Metres,24.82,1.,958
+Hana BASIC,Women,23 DEC 2017,"Geelong Steigen Spectacular, Geelong",Geelong (AUS),100 Metres,12.13,3.,936
+Hana BASIC,Women,13 JAN 2018,Melbourne,Melbourne (AUS),100 Metres,12.09,2.,944
+Hana BASIC,Women,26 JAN 2018,"Canberra AACT Ch., Canberra",Canberra (AUS),100 Metres,12.17,3.,958
+Hana BASIC,Women,26 JAN 2018,"Canberra AACT Ch., Canberra",Canberra (AUS),100 Metres,12.02,5.,972
+Hana BASIC,Women,15 FEB 2018,"Australian Championships, Gold Coast",Gold Coast (AUS),100 Metres,11.97,3.,997
+Hana BASIC,Women,16 FEB 2018,"Australian Championships, Gold Coast",Gold Coast (AUS),100 Metres,11.90,2.,1014
+Hana BASIC,Women,16 FEB 2018,"Australian Championships, Gold Coast",Gold Coast (AUS),100 Metres,11.95,6.,1003
+Hana BASIC,Women,02 MAR 2018,"Melbourne Victorian Open Championships, Melbourne",Melbourne (AUS),100 Metres,12.24,1.,945
+Hana BASIC,Women,02 MAR 2018,"Melbourne Victorian Open Championships, Melbourne",Melbourne (AUS),100 Metres,12.34,3.,931
+Hana BASIC,Women,03 MAR 2018,"Melbourne Victorian Open Championships, Melbourne",Melbourne (AUS),100 Metres,12.06,6.,980
+Hana BASIC,Women,13 DEC 2018,"Melbourne Zatopek:10, Melbourne",Melbourne (AUS),4x400 Metres Relay,3:45.92,1.,1008
+Hana BASIC,Women,21 MAR 2019,"High Velocity Meet, Melbourne",Melbourne (AUS),100 Metres,12.12,3.,968
+Hana BASIC,Women,05 APR 2019,"Australian Championships, Sydney",Sydney (AUS),100 Metres,12.01,3.,995
+Hana BASIC,Women,06 APR 2019,"Australian Championships, Sydney",Sydney (AUS),100 Metres,11.91,4.,1009
+Hana BASIC,Women,28 NOV 2019,"Whitehorse Twilight, Hagenauer Reserve, Box Hill, Melbourne","Hagenauer Reserve, Box Hill, Melbourne (AUS)",100 Metres,11.99,1.,993
+Hana BASIC,Women,21 DEC 2019,"AVSL Round 8, Landy Field, Geelong","Landy Field, Geelong (AUS)",100 Metres,11.68,1.,1033
+Hana BASIC,Women,24 JAN 2020,"AACT Championships, AIS Athletics Track, Canberra","AIS Athletics Track, Canberra (AUS)",100 Metres,11.90,2.,1011
+Hana BASIC,Women,25 JAN 2020,"AACT Championships, AIS Athletics Track, Canberra","AIS Athletics Track, Canberra (AUS)",100 Metres,11.87,5.,1017
+Hana BASIC,Women,08 FEB 2020,"AVSL Round 12, Landy Field, Geelong","Landy Field, Geelong (AUS)",100 Metres,11.63,2.,1042
+Hana BASIC,Women,13 FEB 2020,"HVC Meet 1, Duncan Mackinnon Reserve, Murrumbeena, Melbourne","Duncan Mackinnon Reserve, Murrumbeena, Melbourne (AUS)",100 Metres,11.91,1.,1009
+Hana BASIC,Women,22 FEB 2020,"Sydney Track Classic, SOPAC, Sydney","SOPAC, Sydney (AUS)",100 Metres,12.00,2.,995
+Hana BASIC,Women,06 MAR 2020,"Queensland Championships, QSAC State Athletics Facility, Nathan, Brisbane","QSAC State Athletics Facility, Nathan, Brisbane (AUS)",100 Metres,12.45,3.,904
+Hana BASIC,Women,10 DEC 2020,"HVC Meet #1, Hagenauer Reserve, Box Hill, Melbourne","Hagenauer Reserve, Box Hill, Melbourne (AUS)",100 Metres,11.71,1.,1050
+Hana BASIC,Women,19 DEC 2020,"Glynis Nunn Shield, QSAC State Athletics Facility, Nathan, Brisbane","QSAC State Athletics Facility, Nathan, Brisbane (AUS)",100 Metres,11.63,1.,1066
+Hana BASIC,Women,29 DEC 2020,"Penguin Carnival, Dial Regional Athletic Track, Penguin","Dial Regional Athletic Track, Penguin (AUS)",100 Yards,10.62,1.,0
+Hana BASIC,Women,31 JAN 2021,"Victorian Relay Championships, Hagenauer Reserve, Box Hill, Melbourne","Hagenauer Reserve, Box Hill, Melbourne (AUS)",4x100 Metres Relay,47.82,2.,980
+Hana BASIC,Women,31 JAN 2021,"Victorian Relay Championships, Hagenauer Reserve, Box Hill, Melbourne","Hagenauer Reserve, Box Hill, Melbourne (AUS)",4x100 Metres Relay,47.72,2.,984
+Hana BASIC,Women,04 FEB 2021,"HVC Meet #4, Hagenauer Reserve, Box Hill, Melbourne","Hagenauer Reserve, Box Hill, Melbourne (AUS)",100 Metres,11.45,1.,1104
+Hana BASIC,Women,21 FEB 2021,"Victorian Ch. (W/end #1), Lakeside Stadium, Melbourne","Lakeside Stadium, Melbourne (AUS)",100 Metres,11.80,1.,1036
+Hana BASIC,Women,21 FEB 2021,"Victorian Ch. (W/end #1), Lakeside Stadium, Melbourne","Lakeside Stadium, Melbourne (AUS)",100 Metres,11.37,1.,1121
+Hana BASIC,Women,25 FEB 2021,"Super Summer Series, AIS Athletics Track, Canberra","AIS Athletics Track, Canberra (AUS)",100 Metres,11.25,1.,1134
+Hana BASIC,Women,11 MAR 2021,"Canberra Track Classic, AIS Athletics Track, Canberra","AIS Athletics Track, Canberra (AUS)",100 Metres,11.48,1.,1102
+Hana BASIC,Women,27 MAR 2021,"Queensland Track Classic, QSAC State Athletics Facility, Nathan, Brisbane - Area Permit","QSAC State Athletics Facility, Nathan, Brisbane (AUS)",100 Metres,11.18,1.,1161
+Hana BASIC,Women,27 MAR 2021,"Queensland Track Classic, QSAC State Athletics Facility, Nathan, Brisbane - Area Permit","QSAC State Athletics Facility, Nathan, Brisbane (AUS)",100 Metres,11.19,1.,1159
+Hana BASIC,Women,16 APR 2021,"Australian Championships, SOPAC, Sydney","SOPAC, Sydney (AUS)",100 Metres,11.76,1.,1043
+Hana BASIC,Women,17 APR 2021,"Australian Championships, SOPAC, Sydney","SOPAC, Sydney (AUS)",100 Metres,11.29,1.,1137
+Hana BASIC,Women,17 APR 2021,"Australian Championships, SOPAC, Sydney","SOPAC, Sydney (AUS)",100 Metres,11.23,1.,1150
+Hana BASIC,Women,05 JUN 2021,"Oceania Invitational 1, Performance Centre, Gold Coast","Performance Centre, Gold Coast (AUS)",100 Metres,11.14,1.,1155
+Hana BASIC,Women,05 JUN 2021,"Oceania Invitational 1, Performance Centre, Gold Coast","Performance Centre, Gold Coast (AUS)",4x100 Metres Relay,DQ,,0
+Hana BASIC,Women,12 JUN 2021,"Oceania Invitational 2, Performance Centre, Gold Coast","Performance Centre, Gold Coast (AUS)",100 Metres,11.20,2.,1141
+Hana BASIC,Women,12 JUN 2021,"Oceania Invitational 2, Performance Centre, Gold Coast","Performance Centre, Gold Coast (AUS)",4x100 Metres Relay,43.11,1.,1173
+Hana BASIC,Women,29 JUN 2021,"Spitzen Leichtathletik, Stadion Allmend, Luzern","Stadion Allmend, Luzern (SUI)",100 Metres,11.51,6.,1093
+Hana BASIC,Women,01 JUL 2021,"Oslo Bislett Games, Bislett Stadion, Oslo - Diamond Discipline","Bislett Stadion, Oslo (NOR)",100 Metres,11.42,5.,1111
+Hana BASIC,Women,10 JUL 2021,"Meeting de la Gruyère, Stade Bouleyres, Bulle","Stade Bouleyres, Bulle (SUI)",100 Metres,11.27,2.,1142
+Hana BASIC,Women,10 JUL 2021,"Meeting de la Gruyère, Stade Bouleyres, Bulle","Stade Bouleyres, Bulle (SUI)",100 Metres,11.16,2.,1165
+Hana BASIC,Women,17 JUL 2021,"1 Meeting Citta' Di Mendrisio, Stadio Comunale, Mendrisio","Stadio Comunale, Mendrisio (SUI)",100 Metres,11.30,1.,1135
+Hana BASIC,Women,17 JUL 2021,"1 Meeting Citta' Di Mendrisio, Stadio Comunale, Mendrisio","Stadio Comunale, Mendrisio (SUI)",100 Metres,11.16,1.,1165
+Hana BASIC,Women,30 JUL 2021,"The XXXII Olympic Games, National Stadium, Tokyo","National Stadium, Tokyo (JPN)",100 Metres,11.32,5.,1132
+Hana BASIC,Women,14 DEC 2021,"HVC Meet #1, Hagenauer Reserve, Box Hill, Melbourne","Hagenauer Reserve, Box Hill, Melbourne (AUS)",200 Metres,24.08,2.,1016
