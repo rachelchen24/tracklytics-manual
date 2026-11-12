@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block title %}{{ a.name }}: stats, trajectory & forecast | Tracklytics{% endblock %}
+{% block description %}{{ a.name }} ({{ a.country_name }}): personal bests, world ranking, trajectory, championship record and 2027 forecast.{% endblock %}
+
+{% block content %}
+<div class="wrap">
+  <section class="ath-hero">
+    <div class="ath-top">
+      <div>
+        <div class="ath-photo">
+          {% if a.photo %}<img src="{{ a.photo }}" alt="{{ a.name }}">
+          {% else %}<span class="mono">{{ a.initials }}</span>{% endif %}
+        </div>
+        {% if a.photo and a.photo_page %}
+        <div class="photo-credit">Photo: <a href="{{ a.photo_page }}" target="_blank" rel="noopener">{{ a.photo_credit or "Wikimedia Commons" }}</a>{% if a.photo_license %}, {{ a.photo_license }}{% endif %}</div>
+        {% endif %}
+      </div>
+      <div>
+        <div class="eyebrow">{{ a.gender }}'s {{ a.events[0].label if a.events else "" }}</div>
+        <h1 class="display ath-name" style="margin-top:8px">{{ a.name }}</h1>
+        <div class="ath-meta">
+          {% if a.country %}<a href="/country/{{ a.country }}"><span class="cc">{{ a.country }}</span> {{ a.country_name }}</a>{% endif %}
+          {% for t in a.teams.current %}<a class="team-chip" href="/teams/{{ t.slug }}"><span class="team-dot" style="{{ 'background:' ~ t.color if t.color }}"></span>{{ t.short }}</a>{% endfor %}
+          {% if a.teams.past %}<span class="small muted">Previously {% for t in a.teams.past %}<a href="/teams/{{ t.slug }}" style="text-decoration:underline;text-decoration-color:var(--line-strong)">{{ t.short }}</a>{% if t.years %} ({{ t.years }}){% endif %}{{ ", " if not loop.last }}{% endfor %}</span>{% endif %}
+          {% if a.age %}<span>Age {{ a.age }}{% if a.dob %} · born {{ a.dob }}{% endif %}</span>{% endif %}
+          {% if a.height %}<span>{{ "%.2f"|format(a.height) }} m tall</span>{% endif %}
+          {% if a.medals %}<span>{% for m in a.medals[:8] %}<span class="medal {{ 'g' if m.place == 1 else 's' if m.place == 2 else 'b' }}" title="{{ m.label }} {{ m.event }}: {{ m.place }}"></span> {% endfor %}{{ a.medals|length }} global medal{{ 's' if a.medals|length != 1 }}</span>{% endif %}
+        </div>
+        {% if a.description %}<div class="ath-desc">{{ a.description[0]|upper }}{{ a.description[1:] }}</div>{% endif %}
+        {% if a.bio %}
+        <div class="bio clamp" id="bio">
+          {% for p in a.bio %}<p>{{ p }}</p>{% endfor %}
+          <button class="more" id="bio-more">Read more</button>
+          <span class="src"> · From <a href="{{ a.wiki_url }}" target="_blank" rel="noopener">Wikipedia</a> (CC BY-SA)</span>
+        </div>
+        {% endif %}
+      </div>
+      <div class="ath-actions">
+        <a class="btn" href="/compare?a={{ a.slug }}" id="compare-btn">Compare</a>
+      </div>
+    </div>
+
+    {% if a.events|length > 1 %}
+    <div class="event-tabs" role="tablist">
+      <div class="pills scroll">
+        {% for e in a.events %}
+        <button role="tab" data-i="{{ loop.index0 }}" data-slug="{{ e.slug }}">{{ e.label }}{% if e.world_rank %}<small>#{{ e.world_rank }}</small>{% endif %}</button>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </section>
+
+  {% if not a.events %}
+  <section class="section"><p class="muted">No scored results in Olympic events yet.</p></section>
+  {% endif %}
+
+  <div id="event-root"></div>
+
+  <section class="section" id="results">
+    <div class="section-head">
+      <div>
+        <div class="eyebrow">Every result</div>
+        <h2>Results</h2>
+      </div>
+    </div>
+    <div class="table-tools">
+      <select id="res-event" aria-label="Filter by event"></select>
+      <select id="res-year" aria-label="Filter by year"></select>
+      <span class="small muted" id="res-count"></span>
+    </div>
+    <div class="tbl-wrap">
+      <table class="data">
+        <thead><tr><th>Date</th><th>Event</th><th class="n">Mark</th><th class="n">Place</th><th class="n">Score</th><th>Meet</th></tr></thead>
+        <tbody id="res-body"></tbody>
+      </table>
+    </div>
+    <div class="more-row"><button class="btn ghost" id="res-more">Show all results</button></div>
+    <p class="tiny muted">Greyed results have no World Athletics score (for example, an athlete who pulled up and walked in). They're shown but left out of every rating.</p>
+  </section>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>window.ATHLETE = {{ a|tojson }};</script>
+<script src="{{ url_for('static', filename='js/athlete.js') }}"></script>
+{% endblock %}
